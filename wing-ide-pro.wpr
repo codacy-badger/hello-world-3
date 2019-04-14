@@ -4,4 +4,5 @@
 # Wing project file                                              #
 ##################################################################
 [project attributes]
+proj.file-list = [loc('hello-world.cgi')]
 proj.file-type = 'shared'
