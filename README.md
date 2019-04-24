@@ -1,2 +1,6 @@
-# hello-world [![Build Status] (https://travis-ci.org/ichibrosan/hello-world.png)]
+# hello-world 
+
+### Status
+[![Build Status](https://travis-ci.org/ichibrosan/hello-world.png)](https://travis-ci.org/ichibrosan/hello-world)
+
 MultiWare test --> chunkhost server instance
